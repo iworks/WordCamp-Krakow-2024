@@ -1,0 +1,3 @@
+[submodule "wapuu-krk-2024"]
+	path = wapuu-krk-2024
+	url = git@github.com:iworks/wapuu-krk-2024.git
