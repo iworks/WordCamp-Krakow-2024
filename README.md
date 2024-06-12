@@ -4,7 +4,7 @@ WordCamp Kraków 2024
 
 https://krakow.wordcamp.org/2024/
 
-Autorzy Grafik:
+## Autorki Grafik
 
 * Katarzyna Karus
 * Zuzanna Miśniakiewicz
